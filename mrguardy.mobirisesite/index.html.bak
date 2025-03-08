@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon" href="https://r.mobirisesite.com/1210606/assets/images/photo-1629904853716-f0bc54eea481.jpeg"
+      type="image/x-icon">
+    <meta name="description" content="Risk management and cybersec training services are essential for businesses to protect their assets. Affordable pricing starts at rs499 for risk management and rs799 for training.">
+    <title>Cybersecurity Services: Risk Management and Training at Affordable
+      Prices</title>
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/web/assets/mobirise-icons2/mobirise2.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/bootstrap/css/bootstrap.min.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/bootstrap/css/bootstrap-grid.min.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/bootstrap/css/bootstrap-reboot.min.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/parallax/jarallax.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/dropdown/css/style.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/socicon/css/styles.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/theme/css/style.css?rnd=1739808824852">
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/recaptcha.css?rnd=1739808824852">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;700&amp;display=swap&amp;display=swap"
+      as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;700&display=swap&display=swap"></noscript>
+    <link rel="stylesheet" href="https://r.mobirisesite.com/1210606/assets/css/mbr-additional.css?rnd=1739808824852"
+      type="text/css">
+    <style>
+.navbar-fixed-top {
+  top: auto;
+}
+#mobirisePromo.container-banner {
+  height: 11rem;
+  opacity: 1;
+  -webkit-animation: 11s linear animationHeight;
+  -moz-animation: 11s linear animationHeight;
+    -o-animation: 11s linear animationHeight;
+       animation: 11s linear animationHeight;
+       transition: all  0.5s;
+}
+#mobirisePromo.container-banner.container-banner-closing {
+  pointer-events: none;
+  height: 0;
+  opacity: 0;
+  -webkit-animation: 0.5s linear animationClosing;
+  -moz-animation:  0.5s linear animationClosing;
+    -o-animation:  0.5s linear animationClosing;
+       animation:  0.5s linear animationClosing;
+}
+#mobirisePromo .banner {
+  min-height: 11rem;
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 10px;
+  opacity:1;
+  -webkit-animation: 11s linear animationBanner;
+  -moz-animation: 11s linear animationBanner;
+    -o-animation: 11s linear animationBanner;
+       animation: 11s linear animationBanner;
+  z-index: 1031;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#mobirisePromo .banner p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  animation: none;
+  visibility: visible;
+}
+#mobirisePromo .buy-license {
+  text-decoration: underline;
+}
+#mobirisePromo .banner .btn {
+  margin: 0.3rem 0.5rem;
+  animation: none;
+  visibility: visible;
+}
+.navbar.opened {
+    z-index: 1032;
+}
+#mobirisePromo .mbr-section-abuse-report {
+  margin-top: 0.8rem;
+  font-size: 80%;
+}
+#mobirisePromo .mbr-section-abuse-report a {
+  color: #aaa;
+}
+@-webkit-keyframes animationBanner { 0% { opacity: 0; top: -11rem; } 91% { opacity: 0; top: -11rem; } 100% { opacity: 1; top: 0; } }
+@-moz-keyframes animationBanner { 0% { opacity: 0; top: -11rem; } 91% { opacity: 0; top: -11rem; } 100% { opacity: 1; top: 0; } }
+@-o-keyframes animationBanner { 0% { opacity: 0; top: -11rem; } 91% { opacity: 0; top: -11rem; } 100% { opacity: 1; top: 0; } }
+   @keyframes animationBanner { 0% { opacity: 0; top: -11rem; } 91% { opacity: 0; top: -11rem; } 100% { opacity: 1; top: 0; } }
+@-webkit-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 11rem; } }
+@-moz-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 11rem; } }
+@-o-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 11rem; } }
+   @keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 11rem; } }
+
+@-webkit-keyframes animationClosing { 0% { height: 11rem; opacity: 1; } 30% { height: 11rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-moz-keyframes animationClosing { 0% { height: 11rem; opacity: 1; } 30% { height: 11rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@-o-keyframes animationClosing { 0% { height: 11rem; opacity: 1; } 30% { height: 11rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+@keyframes animationClosing { 0% { height: 11rem; opacity: 1; } 30% { height: 11rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+
+@media(max-width: 575px) {
+  #mobirisePromo.container-banner {
+    height: 14rem;
+  }
+  #mobirisePromo .banner {
+    min-height: 14rem;
+  }
+  @-webkit-keyframes animationBanner { 0% { opacity: 0; top: -14rem; } 91% { opacity: 0; top: -14rem; } 100% { opacity: 1; top: 0; } }
+  @-moz-keyframes animationBanner { 0% { opacity: 0; top: -14rem; } 91% { opacity: 0; top: -14rem; } 100% { opacity: 1; top: 0; } }
+  @-o-keyframes animationBanner { 0% { opacity: 0; top: -14rem; } 91% { opacity: 0; top: -14rem; } 100% { opacity: 1; top: 0; } }
+    @keyframes animationBanner { 0% { opacity: 0; top: -14rem; } 91% { opacity: 0; top: -14rem; } 100% { opacity: 1; top: 0; } }
+  @-webkit-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 14rem; } }
+  @-moz-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 14rem; } }
+  @-o-keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 14rem; } }
+    @keyframes animationHeight { 0% { height: 0; } 91% { height: 0; } 100% { height: 14rem; } }
+
+  @-webkit-keyframes animationClosing { 0% { height: 14rem; opacity: 1; } 30% { height: 14rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-moz-keyframes animationClosing { 0% { height: 14rem; opacity: 1; } 30% { height: 14rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @-o-keyframes animationClosing { 0% { height: 14rem; opacity: 1; } 30% { height: 14rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+  @keyframes animationClosing { 0% { height: 14rem; opacity: 1; } 30% { height: 14rem; opacity: 0.5;} 100% { height: 0; opacity: 0;} }
+}
+</style> </head>
+  <body>
+    <section data-bs-version="5.1" class="menu menu2 cid-uD4Ukw5xHZ" once="menu"
+      id="menu-5-uD4Ukw5xHZ">
+      <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+          <div class="navbar-brand"> <span class="navbar-logo"> <a href="#"> <img
+                  src="https://r.mobirisesite.com/1210606/assets/images/photo-1629904853716-f0bc54eea481.jpeg"
+                  alt="" style="height: 4.3rem;"> </a></span><span class="navbar-caption-wrap"><a
+                class="navbar-caption text-black display-4" href="#">ANOM SHIELD</a></span>
+          </div>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
+            data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger"> <span></span> <span></span> <span></span>
+              <span></span> </div>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+              <li class="nav-item"> <a class="nav-link link text-black display-4"
+                  href="#">Home</a> </li>
+              <li class="nav-item"> <a class="nav-link link text-black display-4"
+                  href="#" aria-expanded="false">Services</a> </li>
+              <li class="nav-item"> <a class="nav-link link text-black display-4"
+                  href="#">Appointments</a> </li>
+            </ul>
+            <div class="navbar-buttons mbr-section-btn"> <a class="btn btn-primary display-4"
+                href="#">Book Now!</a> </div>
+          </div>
+        </div>
+      </nav>
+    </section>
+    <section data-bs-version="5.1" class="header18 cid-uD4Ukw6Zbk mbr-fullscreen"
+      data-bg-video="https://youtu.be/VvqWZOE0fzc?si=ZE_kXZ31sFMWnUny?autoplay=1&amp;loop=1&amp;playlist=7IJmxtjAOOQ&amp;t=20&amp;mute=1&amp;playsinline=1&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;allowfullscreen=true&amp;mode=transparent"
+      id="hero-16-uD4Ukw6Zbk">
+      <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="content-wrap col-12 col-md-12">
+            <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">
+              <strong>ANOM SHIELD</strong> </h1>
+            <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Fortifying
+              Your Future, One Byte at a Time</p>
+            <div class="mbr-section-btn"> <a class="btn btn-white-outline display-7"
+                href="#">Join Us</a> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="header18 cid-uD4Ukw6UkF mbr-fullscreen"
+      data-bg-video="https://www.youtube.com/embed/xQQskN6UXRY?autoplay=1&amp;loop=1&amp;playlist=xQQskN6UXRY&amp;t=20&amp;mute=1&amp;playsinline=1&amp;controls=0&amp;showinfo=0&amp;autohide=1&amp;allowfullscreen=true&amp;mode=transparent"
+      id="video-5-uD4Ukw6UkF">
+      <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(0, 0, 0);"></div>
+      <div class="container-fluid">
+        <div class="row"> </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="image02 cid-uD4Ukw6gQ1 mbr-fullscreen mbr-parallax-background"
+      id="image-13-uD4Ukw6gQ1">
+      <div class="container">
+        <div class="row"></div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="people03 cid-uD4Ukw6y2K" id="team-1-uD4Ukw6y2K">
+      <div class="container-fluid">
+        <div class="row justify-content-center">
+          <div class="col-12 content-head">
+            <div class="mbr-section-head mb-5">
+              <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Meet Our Team</strong> </h4>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1599566150163-29194dcaad36.jpeg"
+                  alt="" title=""> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style display-5"> <strong>Om
+                    Mehta</strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mb-3 display-7">Founder
+                  &amp; Ethical Hacker </h6>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1615065591984-6800446436a1.jpeg"
+                  alt="" title=""> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style display-5"> <strong>Ansh
+                    Gautam</strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mb-3 display-7">Co-Founder
+                  &amp; CyberSecurity Specialist</h6>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <br>
+              </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style display-5"> <strong><br>
+                  </strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mb-3 display-7"><br>
+                </h6>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <br>
+              </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style display-5"> <strong><br>
+                  </strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mb-3 display-7"><br>
+                </h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="header14 cid-uD4Ukw7678 mbr-parallax-background"
+      id="call-to-action-9-uD4Ukw7678">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="card col-12 col-md-12 col-lg-10">
+            <div class="card-wrapper">
+              <div class="card-box align-center">
+                <h1 class="card-title mbr-fonts-style mb-4 display-1"> <strong>Secure
+                    Your Future Today!</strong> </h1>
+                <p class="mbr-text mbr-fonts-style mb-4 display-7">Join our
+                  training sessions and become a cyber pro!</p>
+                <div class="mbr-section-btn mt-4"> <a class="btn btn-primary display-7"
+                    href="#">Book Now</a> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="gallery07 cid-uD4Ukw7NqW" id="gallery-16-uD4Ukw7NqW">
+      <div class="container-fluid gallery-wrapper">
+        <div class="row justify-content-center">
+          <div class="col-12 content-head">
+            <div class="mbr-section-head mb-5">
+              <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Our Training Highlights</strong> </h4>
+            </div>
+          </div>
+        </div>
+        <div class="grid-container">
+          <div class="grid-container-3 moving-left" style="transform: translate3d(-200px, 0px, 0px);">
+            <div class="grid-item"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1510511459019-5dda7724fd87.jpeg"
+                alt=""> </div>
+            <div class="grid-item"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1616531770192-6eaea74c2456.jpeg"
+                alt=""> </div>
+            <div class="grid-item"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1550751827-4bd374c3f58b.jpeg"
+                alt=""> </div>
+            <div class="grid-item"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1584433144697-205892243f4d.jpeg"
+                alt=""> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="people05 cid-uD4Ukw8zAt" id="testimonials-5-uD4Ukw8zAt">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-12 mb-0 content-head">
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+              <strong>Buzz</strong> </h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="item features-without-image col-12 col-md-6 col-lg-4 active">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">CyberGuard saved
+                  my business from a cyber disaster!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1694026307715-0d3709e69adf.jpeg"
+                    alt="" data-slide-to="0" data-bs-slide-to="0"> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Rajesh
+                    Kumar</strong> </h5>
+              </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">Their training
+                  was fun and informative! Highly recommend!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1626882048554-d950f9784496.jpeg"
+                    data-slide-to="1" data-bs-slide-to="1" alt=""> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Anita
+                    Sharma</strong> </h5>
+              </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">I feel safer
+                  online thanks to </p>
+                <p class="card-text mbr-fonts-style display-7">ANOM Shield!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1520975916090-3105956dac38.jpeg"
+                    data-slide-to="2" data-bs-slide-to="2" alt=""> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Vikram
+                    Singh</strong> </h5>
+              </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">Best investment
+                  for my business security!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1643029950351-6ae7f69186fc.jpeg"
+                    data-slide-to="4" data-bs-slide-to="4" alt=""> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Priya
+                    Mehta</strong> </h5>
+              </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">CyberGuard made
+                  cybersecurity easy to understand!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1557684387-08927d28c72a.jpeg"
+                    data-slide-to="6" data-bs-slide-to="6" alt=""> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Ravi
+                    Patel</strong> </h5>
+              </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4">
+            <div class="item-wrapper">
+              <div class="card-box align-left">
+                <p class="card-text mbr-fonts-style display-7">I can finally
+                  sleep at night without worrying!</p>
+                <div class="img-wrapper mt-4 mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1676385901160-31e1b9e1c0c7.jpeg"
+                    data-slide-to="7" data-bs-slide-to="7" alt=""> </div>
+                <h5 class="card-title mbr-fonts-style display-7"> <strong>Sita
+                    Rani</strong> </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="clients04 cid-uD4Ukw8Zt7" id="partners-1-uD4Ukw8Zt7">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2 active">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-sm-6 col-lg-2">
+            <div class="item-wrapper">
+              <div class=""> <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="pricing1 cid-uD4Ukw9ajA" id="pricing-cards-1-uD4Ukw9ajA">
+      <div class="container-fluid">
+        <div class="row justify-content-center">
+          <div class="col-12 content-head">
+            <div class="mbr-section-head mb-5">
+              <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Our Pricing</strong> </h4>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb active">
+            <div class="item-wrapper">
+              <div class="item-head">
+                <h5 class="item-title mbr-fonts-style mb-0 display-5"> <strong>Risk
+                    Management</strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7"> <strong>Rs
+                    499</strong>/One-Time </h6>
+              </div>
+              <div class="item-content">
+                <p class="mbr-text mbr-fonts-style display-7">Get your risk
+                  assessed and managed like a pro!</p>
+              </div>
+              <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Secure
+                  Now</a> </div>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-3 item-mb">
+            <div class="item-wrapper">
+              <div class="item-head">
+                <h5 class="item-title mbr-fonts-style mb-0 display-5"> <strong>Cybersecurity
+                    Training</strong> </h5>
+                <h6 class="item-subtitle mbr-fonts-style mt-0 mb-0 display-7"> <strong>Rs
+                    799</strong>/One-Time </h6>
+              </div>
+              <div class="item-content">
+                <p class="mbr-text mbr-fonts-style display-7">Learn the ropes of
+                  cybersecurity with our engaging training sessions!</p>
+              </div>
+              <div class="item-content"> </div>
+              <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Secure
+                  Now</a> </div>
+            </div>
+          </div>
+          <br>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="features023 cid-uD4Ukw9t8r" id="metrics-1-uD4Ukw9t8r">
+      <div class="container">
+        <div class="row content-row justify-content-center">
+          <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+            <div class="item-wrapper">
+              <div class="title mb-2 mb-md-3"><span class="num mbr-fonts-style display-1"><strong><br>
+                  </strong></span> </div>
+              <h4 class="card-title mbr-fonts-style display-5"> <strong>Risk
+                  Management</strong> </h4>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+            <div class="item-wrapper">
+              <div class="title mb-2 mb-md-3"> <span class="num mbr-fonts-style display-1">
+                  <strong><br>
+                  </strong></span> </div>
+              <h4 class="card-title mbr-fonts-style display-5"> <strong>CyberSecurity
+                  Training</strong> </h4>
+            </div>
+          </div>
+          <div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb">
+            <div class="item-wrapper">
+              <div class="title mb-2 mb-md-3"> <span class="num mbr-fonts-style display-1">
+                  <strong>99.99%</strong></span> </div>
+              <h4 class="card-title mbr-fonts-style display-5"> <strong>Satisfaction
+                  Guaranteed</strong> </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="article07 cid-uD4UkwafAb" id="about-us-7-uD4UkwafAb">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="card col-md-12 col-lg-10">
+            <div class="card-wrapper">
+              <h3 class="card-title mbr-fonts-style mbr-white mt-3 mb-4 display-2">
+                <strong>Who We Are</strong> </h3>
+              <div class="row card-box align-left">
+                <div class="item features-without-image col-12">
+                  <div class="item-wrapper">
+                    <p class="mbr-text mbr-fonts-style display-7">At ANOM
+                      SHIELD, we’re not just another cybersecurity firm; we’re
+                      your digital bodyguards! Our mission is to protect your
+                      online presence with cutting-edge strategies and a
+                      sprinkle of humor. We believe that cybersecurity should be
+                      as engaging as it is essential.</p>
+                  </div>
+                </div>
+                <div class="item features-without-image col-12">
+                  <div class="item-wrapper">
+                    <p class="mbr-text mbr-fonts-style display-7">Our vision? To
+                      create a world where businesses can thrive without the
+                      fear of cyber threats lurking in the shadows. We’re here
+                      to make cybersecurity accessible, fun, and effective.
+                      Let’s face it, the internet can be a wild place, and we’re
+                      the ones with the safety net.</p>
+                  </div>
+                </div>
+                <div class="item features-without-image col-12">
+                  <div class="item-wrapper">
+                    <p class="mbr-text mbr-fonts-style display-7">Join us in our
+                      quest to make the digital world a safer space. With our
+                      expert team and innovative solutions, we’ll turn your
+                      cybersecurity nightmares into sweet dreams.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="list1 cid-uD4UkwbOi9" id="faq-1-uD4UkwbOi9">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-12 col-lg-10 m-auto">
+            <div class="content">
+              <div class="row justify-content-center mb-5">
+                <div class="col-12 content-head">
+                  <div class="mbr-section-head">
+                    <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                      <strong>Frequently Asked Questions</strong> </h4>
+                  </div>
+                </div>
+              </div>
+              <div id="bootstrap-accordion_12" class="panel-group accordionStyles accordion"
+                role="tablist" aria-multiselectable="true">
+                <div class="card">
+                  <div class="card-header" role="tab" id="headingOne"> <a role="button"
+                      class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-core="" href="#collapse1_12" aria-expanded="false" aria-controls="collapse1">
+                      <h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">What
+                        is risk management training?</h6>
+                      <span class="sign mbr-iconfont mobi-mbri-arrow-down"></span>
+                    </a> </div>
+                  <div id="collapse1_12" class="panel-collapse noScroll collapse"
+                    role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
+                    data-bs-parent="#bootstrap-accordion_12">
+                    <div class="panel-body">
+                      <p class="mbr-fonts-style panel-text display-7">It's all
+                        about identifying and mitigating risks before they bite
+                        you!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" role="tab" id="headingOne"> <a role="button"
+                      class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-core="" href="#collapse2_12" aria-expanded="false" aria-controls="collapse2">
+                      <h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">How
+                        much do trainings cost?</h6>
+                      <span class="sign mbr-iconfont mobi-mbri-arrow-down"></span>
+                    </a> </div>
+                  <div id="collapse2_12" class="panel-collapse noScroll collapse"
+                    role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
+                    data-bs-parent="#bootstrap-accordion_12">
+                    <div class="panel-body">
+                      <p class="mbr-fonts-style panel-text display-7">Risk
+                        Management starts at just Rs 499!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" role="tab" id="headingOne"> <a role="button"
+                      class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-core="" href="#collapse3_12" aria-expanded="false" aria-controls="collapse3">
+                      <h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">What
+                        is cybersecurity training?</h6>
+                      <span class="sign mbr-iconfont mobi-mbri-arrow-down"></span>
+                    </a> </div>
+                  <div id="collapse3_12" class="panel-collapse noScroll collapse"
+                    role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
+                    data-bs-parent="#bootstrap-accordion_12">
+                    <div class="panel-body">
+                      <p class="mbr-fonts-style panel-text display-7">Learn to
+                        defend against cyber attacks like a pro!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" role="tab" id="headingOne"> <a role="button"
+                      class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-core="" href="#collapse4_12" aria-expanded="false" aria-controls="collapse4">
+                      <h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">How
+                        long are the training sessions?</h6>
+                      <span class="sign mbr-iconfont mobi-mbri-arrow-down"></span>
+                    </a> </div>
+                  <div id="collapse4_12" class="panel-collapse noScroll collapse"
+                    role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
+                    data-bs-parent="#bootstrap-accordion_12">
+                    <div class="panel-body">
+                      <p class="mbr-fonts-style panel-text display-7">Each
+                        session lasts about 2 hours of pure awesomeness!</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" role="tab" id="headingOne"> <a role="button"
+                      class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse"
+                      data-core="" href="#collapse5_12" aria-expanded="false" aria-controls="collapse5">
+                      <h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">Can
+                        I book an appointment online?</h6>
+                      <span class="sign mbr-iconfont mobi-mbri-arrow-down"></span>
+                    </a> </div>
+                  <div id="collapse5_12" class="panel-collapse noScroll collapse"
+                    role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
+                    data-bs-parent="#bootstrap-accordion_12">
+                    <div class="panel-body">
+                      <p class="mbr-fonts-style panel-text display-7">Absolutely!
+                        Just click on our appointments page.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="features03 cid-uD4UkwckWp" id="news-1-uD4UkwckWp">
+      <div class="container-fluid">
+        <div class="row justify-content-center mb-5">
+          <div class="col-12 content-head">
+            <div class="mbr-section-head">
+              <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Latest Cybersecurity Insights</strong> </h4>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="item features-image col-12 col-md-6 col-lg-3 active">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1598970434795-0c54fe7c0648.jpeg"
+                  alt="" title=""> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style mt-0 mb-2 display-5"> <strong>New
+                    Risk Management Strategies Released</strong> </h5>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">2025-02-17</p>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">Discover the
+                  latest techniques in risk management. Stay ahead of cyber
+                  threats with our expert insights!</p>
+                <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Learn</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1616596871445-bb8290a7a2c2.jpeg"
+                  alt="" title="" data-slide-to="1" data-bs-slide-to="1"> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5"> <strong>Cybersecurity
+                    Training Now Available</strong> </h5>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">2025-02-17</p>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">Join our
+                  training sessions and become a cyber warrior! Sign up today!</p>
+                <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Learn</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1626908013943-df94de54984c.jpeg"
+                  alt="" title="" data-slide-to="2" data-bs-slide-to="2"> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5"> <strong>Expert
+                    Tips for Cyber Safety</strong> </h5>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">2025-02-17</p>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">Check out our
+                  top tips to keep your data safe. Don't be a victim!</p>
+                <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Learn</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item features-image col-12 col-md-6 col-lg-3">
+            <div class="item-wrapper">
+              <div class="item-img mb-3"> <img src="https://r.mobirisesite.com/1210606/assets/images/photo-1567881248445-83ead68a44d8.jpeg"
+                  alt="" title="" data-slide-to="2" data-bs-slide-to="2"> </div>
+              <div class="item-content align-left">
+                <h5 class="item-title mbr-fonts-style mb-2 mt-0 display-5"> <strong>Upcoming
+                    Webinar on Cyber Threats</strong> </h5>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">2025-02-17</p>
+                <p class="mbr-text mbr-fonts-style mb-3 display-7">Join our free
+                  webinar to learn about the latest cyber threats. Register now!</p>
+                <div class="mbr-section-btn item-footer"> <a href="" class="btn item-btn btn-primary display-7">Learn</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="gallery10 cid-uD4UkwcDzF" id="features-69-uD4UkwcDzF">
+      <div class="container-fluid">
+        <div class="loop-container"><br>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="social05 cid-uD4UkwcMzj" id="follow-us-2-uD4UkwcMzj">
+      <div class="container">
+        <div class="row">
+          <h3 class="mbr-section-title align-center mb-5 mbr-fonts-style display-2">
+            <strong>Connect With Us!</strong> </h3>
+          <div class="col-12">
+            <div class="social-row">
+              <div class="soc-item"> <a href="#" target="_blank"> <span class="mbr-iconfont socicon socicon-facebook"></span>
+                </a> </div>
+              <div class="soc-item"> <a href="#" target="_blank"> <span class="mbr-iconfont socicon-twitter socicon"></span>
+                </a> </div>
+              <div class="soc-item"> <a href="#" target="_blank"> <span class="mbr-iconfont socicon-instagram socicon"></span>
+                </a> </div>
+              <div class="soc-item"> <a href="#" target="_blank"> <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                </a> </div>
+              <div class="soc-item"> <a href="#" target="_blank"> <span class="mbr-iconfont socicon socicon-twitch"></span>
+                </a> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="form5 cid-uD4UkwcHVT" id="contact-form-2-uD4UkwcHVT">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 content-head">
+            <div class="mbr-section-head mb-5">
+              <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Get In Touch</strong> </h3>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
+            <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler"
+              data-form-title="Form Name"><input name="email" data-form-email="true"
+                value="3YgxtDex8EdiGLfA+zXzLggIbzT7XF2ObTPFUyyMOWwdVVqmAwON8nj3CpgvhK53SDrPE2DUkMUBeDv8cycqIl3zS+cT4t9J0v2lQZxLRgTvppB9oK3oc9pyCo23D+Ay"
+                type="hidden">
+              <div class="row">
+                <div data-form-alert="" class="alert alert-success col-12" hidden="hidden">Thanks
+                  for filling out the form!</div>
+                <div data-form-alert-danger="" class="alert alert-danger col-12"
+                  hidden="hidden"> Oops...! some problem! </div>
+              </div>
+              <div class="dragArea row">
+                <div class="col-md col-sm-12 form-group mb-3" data-for="name"> <input
+                    name="name" placeholder="Name" data-form-field="name" class="form-control"
+                    value="" id="name-contact-form-2-uD4UkwcHVT" type="text"> </div>
+                <div class="col-md col-sm-12 form-group mb-3" data-for="email">
+                  <input name="email" placeholder="Email" data-form-field="email"
+                    class="form-control" value="" id="email-contact-form-2-uD4UkwcHVT"
+                    type="email"> </div>
+                <div class="col-12 form-group mb-3" data-for="textarea"> <textarea
+name="textarea" placeholder="Message" data-form-field="textarea" class="form-control"
+id="textarea-contact-form-2-uD4UkwcHVT"></textarea> </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn">
+                  <button type="submit" class="btn btn-primary display-7">Send
+                    It!</button> </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="contacts03 cid-uD4UkwdJ3G" id="contacts-11-uD4UkwdJ3G">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-4">
+            <div class="col-12 col-md-12">
+              <h5 class="mbr-section-title mbr-fonts-style mt-0 mb-4 display-2">
+                <strong>Contact Us</strong> </h5>
+              <p class="mbr-section-subtitle mbr-fonts-style mt-0 mb-4 display-7">
+                Phone: +1234567890 <br>
+                Email:shieldanom@gmail.com <br>
+                Address: Mumbai , India <br>
+                Hours: Sun-Fri: 9am - 5pm </p>
+            </div>
+          </div>
+          <div class="col-lg-8 side-features">
+            <div class="google-map"><iframe style="border:0" src="https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d6045.3003145248895%212d-73.9884657%213d40.7477229%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x89c259a9ac1f1b85%3A0x7e33d1c0e7af3be4%212zMzUwIDV0aCBBdmUsIE5ldyBZb3JrLCBOWSAxMDExOCwg0KHQqNCQ%215e0%213m2%211sru%212sru%214v1689597362021%215m2%211sen%212sen"
+                allowfullscreen="" frameborder="0"></iframe></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section data-bs-version="5.1" class="footer4 cid-uD4UkwdwxI" once="footers"
+      id="footer-4-uD4UkwdwxI">
+      <div class="container">
+        <div class="media-container-row align-center mbr-white">
+          <div class="col-12">
+            <p class="mbr-text mb-0 mbr-fonts-style display-7">© 2025 ANOM
+              SHIELD. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="https://r.mobirisesite.com/1210606/assets/web/assets/jquery/jquery.min.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/bootstrap/js/bootstrap.bundle.min.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/parallax/jarallax.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/smoothscroll/smooth-scroll.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/ytplayer/index.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/dropdown/js/navbar-dropdown.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/vimeoplayer/player.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/scrollgallery/scroll-gallery.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/mbr-switch-arrow/mbr-switch-arrow.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/theme/js/script.js?rnd=1739808824852"></script>
+    <script src="https://r.mobirisesite.com/1210606/assets/formoid.min.js?rnd=1739808824852"></script>
+  </body>
+</html>
